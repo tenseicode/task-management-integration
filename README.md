@@ -29,9 +29,7 @@ A feature-rich Android task management application with recurrence functionality
 
 ## Installation
 
-1. Clone this repository
-2. Open in Android Studio
-3. Build and run on Android device/emulator
+1. Download the app and install
 
 ## Screenshots
 ![0607f9e1-a4a7-4d5b-a053-6a0a1d33ee0c](https://github.com/user-attachments/assets/f64057f6-67fa-4f04-943e-939414f89ca9)
