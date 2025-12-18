@@ -29,8 +29,9 @@ A feature-rich Android task management application with recurrence functionality
 
 ## Installation
 
-1. Download the app and install
+1. Download the app and install (Android Api 24 and up)
 
+PS. Old Screenshots
 ## Screenshots
 ![0607f9e1-a4a7-4d5b-a053-6a0a1d33ee0c](https://github.com/user-attachments/assets/f64057f6-67fa-4f04-943e-939414f89ca9)
 ![cd04bc35-1d9a-4ff9-960e-fe4888ace9de](https://github.com/user-attachments/assets/1cf14bfb-3b9d-49b9-9b50-3747db3705a6)
