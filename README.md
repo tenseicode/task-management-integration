@@ -4,13 +4,13 @@ A feature-rich Android task management application with recurrence functionality
 
 ## Features
 
-- ✅ Task management with categories (Today, Upcoming, Completed)
-- 🔄 Advanced recurrence system (Daily, Weekly, Monthly, Yearly)
-- 🎯 Streak tracking and productivity analytics
-- 🔔 Smart notifications and reminders
-- 📊 Statistics and progress tracking
-- 🎨 Clean, modern Material Design UI
-- 💾 SQLite database with Room-like architecture
+- Task management with categories (Today, Upcoming, Completed)
+- Advanced recurrence system (Daily, Weekly, Monthly, Yearly)
+- Streak tracking and productivity analytics
+- Smart notifications and reminders
+- Statistics and progress tracking
+- Clean, modern Material Design UI
+- SQLite database with Room-like architecture
 
 ## Recurrence Features
 
